@@ -10,7 +10,7 @@ import okhttp3.Response;
 
 public class Requests {
 
-    private static String url = "http://13.125.236.248/memo";
+    private static String url = "http://13.125.176.20/memo";
 
     public static String getMemo() {
 
